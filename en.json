@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"author": "Ellen Spertus <ellen.spertus@gmail.com>",
-		"lastupdated": "2018-12-29 11:27:12.706000",
+		"lastupdated": "2019-01-04 10:25:45.367000",
 		"locale": "en",
 		"messagedocumentation" : "qqq"
 	},
@@ -181,8 +181,11 @@
 	"MOTOR_SERVO_OSCILLATOR_REFRESH": "Update",
 	"MOTOR_SERVO_OSCILLATOR_OFFSET": "Offset",
 	"MOTOR_SERVO_OSCILLATOR_AMPLITUDE": "Amplitude",
-	"MOTOR_SERVO_OSCILLATOR_PERIOD": "Period",
+	"MOTOR_SERVO_OSCILLATOR_PERIOD": "Period (ms)",
 	"MOTOR_SERVO_OSCILLATOR_PHASE": "Phase",
+	"MOTOR_SERVO_OSCILLATOR_START": "Start",
+	"MOTOR_SERVO_OSCILLATOR_STOP": "Stop",
+	"MOTOR_SERVO_OSCILLATOR_RESET": "Reset",
 	"MOTOR_STEPPER": "Stepper",
 	"MOTOR_STEPPER_STEPS": "Steps/rev.",
 	"MOTOR_STEPPER_RPM": "Speed",
@@ -332,6 +335,10 @@
 	"DOMOTICS_PZEM004T_INIT": "PZEM-004t Init",
 	"DOMOTICS_PZEM004T_VALUE": "Get",
 	"DOMOTICS_PZEM004T_SETADDRESS": "Set address",
+	"DOMOTICS_PZEM004T_VOLTAGE": "Voltage (V)",
+	"DOMOTICS_PZEM004T_CURRENT": "Current (A)",
+	"DOMOTICS_PZEM004T_POWER": "Power (W)",
+	"DOMOTICS_PZEM004T_ENERGY": "Energy (W/h)",
 	"ACTUATOR_LED": "Led",
 	"ACTUATOR_LED_PWM": "Led intensity (PWM)",
 	"ACTUATOR_RGBLED": "RGB Led",
